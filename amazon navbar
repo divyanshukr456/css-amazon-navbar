@@ -1,5 +1,5 @@
-
-HTML 
+This is my 
+HTML  code
 
 <!DOCTYPE html>
 <html lang="en">
@@ -43,7 +43,9 @@ HTML
 
 </html>
 
-CSS
+
+This is my 
+CSS Code
       
 #navibar{
    background-color:#0f1111;
