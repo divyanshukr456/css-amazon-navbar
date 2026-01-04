@@ -1,0 +1,56 @@
+
+#navibar{
+   background-color:#0f1111;
+   height:60px;
+   
+}
+
+
+a {
+   background-color:#0f1111;
+   color:white;
+   margin:90px;
+
+}
+#amazon{
+   
+   color:orange
+}
+button{
+   color:black;
+   background-color:yellow;
+
+
+   
+}
+.contentbox1{
+   background-color:rgba(255,0,0,0.5);
+   width:500px;
+   height:500px;
+   padding:20px;
+   border:2px solid black;
+}
+.contentbox2{
+   background-color:rgba(0,255,0,0.5);
+   width:500px;
+   height:500px;
+   padding:20px;
+   border:2px solid black;
+
+}
+.contentbox3{
+   background-color:rgba(0,0,255,0.5);
+   width:500px;
+   height:500px;
+   padding:20px;
+   border:2px solid black;
+}
+#content{
+  display:flex;
+}
+   
+footer{
+   background-color:#0f1111;
+   color:white;
+   text-align:center;
+}
